@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ContactList.qml</file>
+        <file>button.png</file>
+        <file>img.png</file>
+        <file>layout.png</file>
+        <file>ContactGrid.qml</file>
+        <file>noface.png</file>
+    </qresource>
+</RCC>
